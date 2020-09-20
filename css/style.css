@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+  
+}
+nav ul li{
+    margin-top: 8px;
+}
+main{
+    padding-top: 80px;
+}
+#schoolCards{
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+#schoolProjects{
+    padding-bottom: 70px;
+}
+#schoolHistory{
+    padding-bottom: 70px;
+}
+#schoolFamilyMember{
+    padding-bottom: 70px;
+}
+#schoolInformation{
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+.animateImg{
+    position: relative;
+    top: -10%;
+}
+footer img {
+    margin-right: 10px;
+}
+footer ul{
+    margin-left: 40px;
+}
